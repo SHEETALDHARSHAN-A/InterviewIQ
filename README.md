@@ -1,2 +1,2 @@
 # InterviewIQ
-ai interview agent automation
+ai interview agent automation from the dev-sheetal
